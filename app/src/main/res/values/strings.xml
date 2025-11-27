@@ -1,0 +1,161 @@
+<resources>
+    <string name="app_name">File Tools</string>
+    
+    <!-- Navigation -->
+    <string name="dashboard">Dashboard</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Categories -->
+    <string name="category_convert_from_ebook">Convert From eBook</string>
+    <string name="category_convert_to_ebook">Convert To eBook</string>
+    <string name="category_converter">Converter</string>
+    <string name="category_gif_tools">GIF Tools</string>
+    <string name="category_zip_tools">ZIP Tools</string>
+    <string name="category_others">Others</string>
+    <string name="category_optimize_images">Optimize Images</string>
+    <string name="category_convert_images">Convert Images</string>
+    <string name="category_edit_images">Edit Images</string>
+    <string name="category_optimize_pdf">Optimize PDF</string>
+    <string name="category_merge_split_pdf">Merge &amp; Split PDF</string>
+    <string name="category_view_edit_pdf">View &amp; Edit PDF</string>
+    <string name="category_convert_to_pdf">Convert To PDF</string>
+    <string name="category_convert_from_pdf">Convert From PDF</string>
+    <string name="category_pdf_security">PDF Security</string>
+    
+    <!-- Tools -->
+    <string name="tool_epub_to_pdf">EPUB to PDF</string>
+    <string name="tool_mobi_to_pdf">MOBI to PDF</string>
+    <string name="tool_azw_to_pdf">AZW to PDF</string>
+    <string name="tool_fb2_to_pdf">FB2 to PDF</string>
+    <string name="tool_lit_to_pdf">LIT to PDF</string>
+    <string name="tool_pdb_to_pdf">PDB to PDF</string>
+    
+    <string name="tool_pdf_to_epub">PDF to EPUB</string>
+    <string name="tool_pdf_to_mobi">PDF to MOBI</string>
+    <string name="tool_pdf_to_azw">PDF to AZW</string>
+    <string name="tool_pdf_to_fb2">PDF to FB2</string>
+    <string name="tool_pdf_to_lit">PDF to LIT</string>
+    <string name="tool_pdf_to_pdb">PDF to PDB</string>
+    
+    <string name="tool_pdf_to_word">PDF to Word</string>
+    <string name="tool_pdf_to_excel">PDF to Excel</string>
+    <string name="tool_pdf_to_powerpoint">PDF to PowerPoint</string>
+    <string name="tool_word_to_pdf">Word to PDF</string>
+    <string name="tool_excel_to_pdf">Excel to PDF</string>
+    <string name="tool_powerpoint_to_pdf">PowerPoint to PDF</string>
+    <string name="tool_image_to_pdf">Image to PDF</string>
+    
+    <string name="tool_gif_maker">GIF Maker</string>
+    <string name="tool_gif_optimizer">GIF Optimizer</string>
+    
+    <string name="tool_zip_creator">ZIP Creator</string>
+    <string name="tool_zip_extractor">ZIP Extractor</string>
+    
+    <string name="tool_file_renamer">File Renamer</string>
+    <string name="tool_duplicate_finder">Duplicate Finder</string>
+    <string name="tool_file_comparator">File Comparator</string>
+    <string name="tool_metadata_editor">Metadata Editor</string>
+    
+    <string name="tool_jpeg_optimizer">JPEG Optimizer</string>
+    <string name="tool_png_optimizer">PNG Optimizer</string>
+    <string name="tool_webp_optimizer">WebP Optimizer</string>
+    <string name="tool_gif_optimizer_img">GIF Optimizer</string>
+    <string name="tool_svg_optimizer">SVG Optimizer</string>
+    <string name="tool_tiff_optimizer">TIFF Optimizer</string>
+    <string name="tool_bmp_optimizer">BMP Optimizer</string>
+    
+    <string name="tool_jpg_to_png">JPG to PNG</string>
+    <string name="tool_png_to_jpg">PNG to JPG</string>
+    <string name="tool_webp_to_png">WebP to PNG</string>
+    <string name="tool_png_to_webp">PNG to WebP</string>
+    <string name="tool_gif_to_mp4">GIF to MP4</string>
+    <string name="tool_mp4_to_gif">MP4 to GIF</string>
+    
+    <string name="tool_crop_image">Crop Image</string>
+    <string name="tool_resize_image">Resize Image</string>
+    <string name="tool_rotate_image">Rotate Image</string>
+    <string name="tool_flip_image">Flip Image</string>
+    <string name="tool_add_watermark">Add Watermark</string>
+    <string name="tool_remove_background">Remove Background</string>
+    
+    <string name="tool_pdf_compressor">PDF Compressor</string>
+    
+    <string name="tool_merge_pdf">Merge PDF</string>
+    <string name="tool_split_pdf">Split PDF</string>
+    <string name="tool_extract_pages">Extract Pages</string>
+    
+    <string name="tool_pdf_viewer">PDF Viewer</string>
+    <string name="tool_pdf_editor">PDF Editor</string>
+    <string name="tool_add_annotations">Add Annotations</string>
+    <string name="tool_fill_forms">Fill Forms</string>
+    <string name="tool_add_signature">Add Signature</string>
+    <string name="tool_password_protect">Password Protect</string>
+    <string name="tool_remove_password">Remove Password</string>
+    
+    <string name="tool_word_to_pdf_conv">Word to PDF</string>
+    <string name="tool_excel_to_pdf_conv">Excel to PDF</string>
+    <string name="tool_powerpoint_to_pdf_conv">PowerPoint to PDF</string>
+    <string name="tool_image_to_pdf_conv">Image to PDF</string>
+    <string name="tool_html_to_pdf">HTML to PDF</string>
+    <string name="tool_text_to_pdf">Text to PDF</string>
+    
+    <string name="tool_pdf_to_word_conv">PDF to Word</string>
+    <string name="tool_pdf_to_excel_conv">PDF to Excel</string>
+    <string name="tool_pdf_to_powerpoint_conv">PDF to PowerPoint</string>
+    <string name="tool_pdf_to_image">PDF to Image</string>
+    <string name="tool_pdf_to_html">PDF to HTML</string>
+    <string name="tool_pdf_to_text">PDF to Text</string>
+    
+    <string name="tool_encrypt_pdf">Encrypt PDF</string>
+    <string name="tool_decrypt_pdf">Decrypt PDF</string>
+    
+    <!-- Common -->
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="copy">Copy</string>
+    <string name="move">Move</string>
+    <string name="rename">Rename</string>
+    <string name="select_file">Select File</string>
+    <string name="no_file_selected">No File Selected</string>
+    <string name="processing">Processing...</string>
+    <string name="completed">Completed</string>
+    <string name="failed">Failed</string>
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+    <string name="loading">Loading...</string>
+    <string name="search_hint">Search tools...</string>
+    <string name="no_results_found">No results found</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="clear_history">Clear History</string>
+    
+    <!-- Settings -->
+    <string name="theme">Theme</string>
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+    <string name="system_theme">System</string>
+    <string name="language">Language</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="contact_support">Contact Support</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="clear_cache">Clear Cache</string>
+    
+    <!-- Onboarding -->
+    <string name="welcome">Welcome to File Tools</string>
+    <string name="onboarding_description">Your all-in-one solution for file conversion, document editing, and optimization tools</string>
+    <string name="get_started">Get Started</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    
+    <!-- Feature descriptions -->
+    <string name="feature_convert_description">Convert between different file formats seamlessly</string>
+    <string name="feature_edit_description">Edit and enhance your documents and images</string>
+    <string name="feature_optimize_description">Reduce file sizes without losing quality</string>
+    <string name="feature_secure_description">Protect your files with encryption and passwords</string>
+</resources>
