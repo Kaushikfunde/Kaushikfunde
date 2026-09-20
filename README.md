@@ -1,14 +1,14 @@
 # Hi 👋, I'm Kaushik Funde
 
-🎓 1st Year Engineering Student  
-👨‍💻 C Programming Beginner  
+🎓 2nd Year Engineering Student  
+👨‍💻 C Programming   
 💡 Learning Every Day  
 
 ---
 
 ## 🌱 About Me
 
-- 🔰 Just started learning **C programming**  
+- 🔰 learning **C programming**  
 - 💻 Exploring basic logic, data types, loops, and functions  
 - 📚 Interested in systems programming, cybersecurity, and building real projects  
 - 🎯 Goal: Become strong in core programming before diving into advanced topics  
